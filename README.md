@@ -31,4 +31,4 @@ After installing the appropriate dependancies, modification to the makefile is n
 
 # Compiling
 
-Run `make` inside the project folder:
+Run `make` inside the project folder
